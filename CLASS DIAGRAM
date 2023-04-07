@@ -181,8 +181,8 @@ namespace Tugas_Pratikum
             laptop1.processor = new Corei5();
             
 
-            laptop2 = new Vivobook();
-            laptop2.vga = new Nvidia();
+            laptop2 = new IdeaPad();
+            laptop2.vga = new AMD();
             laptop2.processor = new Ryzen();
 
             predator = new Predator();
